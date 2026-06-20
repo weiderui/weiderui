@@ -1,16 +1,23 @@
-## Hi there 👋
+# Fe's个人介绍
 
-<!--
-**weiderui/weiderui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 我是谁？
 
-Here are some ideas to get you started:
+Hello，我叫Fe，是一名13岁初中在读学生，平时喜欢玩玩游戏，折腾一些小玩意，还喜欢通过编程写一些~~没用的~~好玩的小程序，同时我也是我们班的电教委。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 兴趣爱好
+
+1. 玩游戏，目前玩的游戏有《崩坏：星穹铁道》《蔚蓝档案》（我玩游戏除了这两个游戏其它都是三分钟热度）
+2. 折腾小玩意，比如NAS等
+3. 写小程序，比如自动更换host关于Github的优选IP、多线程下载工具等
+
+## 开发
+
+### 开发语言
+
+主要：Python
+Ai开发：HTML/CSS/JS
+
+### 工具
+
+当然是万能的vscode了！
+
