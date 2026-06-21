@@ -21,6 +21,10 @@ Ai开发：HTML/CSS/JS
 
 当然是万能的vscode了！
 
+## 贡献
+
+感谢[此仓库](https://github.com/firstcontributions/first-contributions)让我体验并进行了[第一次PR](https://github.com/firstcontributions/first-contributions/pull/119574)！！！
+
 ## 总览
 
 <!--START_SECTION:waka-->
