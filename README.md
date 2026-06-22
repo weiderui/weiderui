@@ -28,7 +28,7 @@ Ai开发：HTML/CSS/JS
 ## 总览
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -38,7 +38,7 @@ Ai开发：HTML/CSS/JS
 
 > 📦  使用了 11.2 kB GitHub 存储空间 
  > 
-> 🏆 23 个贡献，在 2026 年
+> 🏆 22 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -73,35 +73,39 @@ Ai开发：HTML/CSS/JS
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   26 mins             ███████████████████░░░░░░   75.43 % 
-YAML                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Docker                   35 mins             ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+YAML                     28 mins             ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Python                   26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🔥 编辑器: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-github                   18 mins             █████████████░░░░░░░░░░░░   52.60 % 
-weiderui                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-Unknown Project          7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+intelliview-orchestrator 1 hr 17 mins        ███████████████░░░░░░░░░░   59.95 % 
+github                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+weiderui                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+composable-data-stack    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Unknown Project          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 💻 操作系统: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
-**我最常使用 Python** 
+**我最常使用 CSS** 
 
 ```text
-CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Dart                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Dart                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
 
 
- Last Updated on 21/06/2026 17:46:10 UTC
+ Last Updated on 22/06/2026 19:37:07 UTC
 <!--END_SECTION:waka-->
 
