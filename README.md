@@ -28,13 +28,13 @@ Ai开发：HTML/CSS/JS
 ## 总览
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-3-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-13299%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 58 今年的贡献 2026
+> 🏆 59 今年的贡献 2026
  > 
 > 📦 11.6 kB 占用了 GitHub 内存 
  > 
@@ -71,18 +71,18 @@ Ai开发：HTML/CSS/JS
 
 ```text
 💬 编程语言: 
-Markdown                 2 hrs 36 mins       █████████████████████░░░░   86.93% 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.37% 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
-INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+Markdown                 1 hr 5 mins         ██████████████████░░░░░░░   73.54% 
+Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.98% 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.81% 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82% 
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
 
 🔥 编辑器: 
-VS Code                  2 hrs 54 mins       ████████████████████████░   96.69% 
-Excel                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31%
+VS Code                  1 hr 22 mins        ███████████████████████░░   93.28% 
+Excel                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.72%
 
 💻 操作系统: 
-Windows                  2 hrs 59 mins       █████████████████████████   100.0%
+Windows                  1 hr 28 mins        █████████████████████████   100.0%
 
 ```
 
@@ -95,6 +95,6 @@ CSS                      1 repo              ███████████�
 
 
 
- Last Updated on 15/08/2026
+ Last Updated on 16/08/2026
 <!--END_SECTION:waka-->
 
