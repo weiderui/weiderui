@@ -34,7 +34,7 @@ Ai开发：HTML/CSS/JS
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 80 今年的贡献 2026
+> 🏆 81 今年的贡献 2026
  > 
 > 📦 8.9 kB 占用了 GitHub 内存 
  > 
@@ -71,14 +71,14 @@ Ai开发：HTML/CSS/JS
 
 ```text
 🔥 编辑器: 
-VS Code                  45 mins             █████████████████████████   100.0%
+VS Code                  32 mins             █████████████████████████   100.0%
 
 💻 操作系统: 
-Windows                  45 mins             █████████████████████████   100.0%
+Windows                  32 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 05/10/2026
+ Last Updated on 06/10/2026
 <!--END_SECTION:waka-->
 
