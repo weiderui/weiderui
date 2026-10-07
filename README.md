@@ -71,14 +71,15 @@ Ai开发：HTML/CSS/JS
 
 ```text
 🔥 编辑器: 
-VS Code                  32 mins             █████████████████████████   100.0%
+Word                     25 mins             █████████████░░░░░░░░░░░░   51.52% 
+VS Code                  24 mins             ████████████░░░░░░░░░░░░░   48.48%
 
 💻 操作系统: 
-Windows                  32 mins             █████████████████████████   100.0%
+Windows                  49 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/10/2026
+ Last Updated on 07/10/2026
 <!--END_SECTION:waka-->
 
