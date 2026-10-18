@@ -14,7 +14,7 @@ Hello，我叫Fe，是一名13岁初中在读学生，平时喜欢玩玩游戏�
 
 ### 开发语言
 
-主要：Python
+主要：Python/C#
 Ai开发：HTML/CSS/JS
 
 ### 工具
